@@ -1,6 +1,6 @@
 # Hey, I'm Artur 👋
  
-> 3rd year CS undergrad · Automation developer · Based in Alicante, Spain 🇪🇸
+> 4th year CS undergrad · Automation developer · Based in Alicante, Spain 🇪🇸
  
 I build automation solutions and like turning repetitive problems into clean, reliable code.
 Currently exploring backend systems and agentic workflows.
